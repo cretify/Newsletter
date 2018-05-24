@@ -1,0 +1,56 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <!-- Header -->
+    <mj-section padding="5px">
+      <mj-column width="100%">
+        <mj-image src="https://cdn.discordapp.com/attachments/448775071536906252/448775144081457163/logo.png" width="100px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Overwatch -->
+
+    <mj-section background-url="https://cdn.discordapp.com/attachments/448775071536906252/448781161993338880/unknown.png" border-bottom="4px solid #ffffff" padding="10px">
+      <mj-column background-color="rgba(229,240,246,0.8)" width="50%" border-radius="5%">
+        <mj-image src="https://cdn.discordapp.com/attachments/448775071536906252/448824875927339009/dsqdqsdsfdsfsdfsdfd.png" width="200px" padding-top="15px" padding-bottom="5px"></mj-image>
+        <mj-text align="middle" font-family="Ubuntu" font-size="20px">Blizzard teams up with </br>Twitch for BCRF charity </br>with an exclusive pink</br> Mercy skin and drops! </br>All the money earned </br>will go to the BCRF.
+        </mj-text>
+        <mj-button background-color="#c04852" border-radius="10px" border-bottom="4px solid #7d2528">MORE INFO</mj-button>
+      </mj-column>
+      <mj-column width="50%"></mj-column>
+    </mj-section>
+
+    <!-- Fortnite -->
+
+    <mj-section background-url="https://cdn.discordapp.com/attachments/448775071536906252/448784937827434496/unknown.png" border-bottom="4px solid #ffffff" padding="10px">
+      <mj-column width="50%"></mj-column>
+      <mj-column background-color="rgba(229,240,246,0.8)" width="50%" border-radius="5%" padding="10px">
+        <mj-image src="https://cdn.discordapp.com/attachments/448775071536906252/448833264912957440/dsqdqsdsfdsfsdfsdfd.png" width="200px" padding-top="15px" padding-bottom="5px"></mj-image>
+        <mj-text align="middle" font-family="Ubuntu" font-size="20px">Epic Games adds a new</br>mode to fortnite as a </br>crossover with Marvel</br>for the release of </br>Avengers: Infinity War!
+        </mj-text>
+        <mj-button background-color="#9f7a3c" border-radius="10px" border-bottom="4px solid #6c4e53">MORE INFO</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- God of War -->
+
+    <mj-section background-url="https://cdn.discordapp.com/attachments/448775071536906252/448839632876994561/unknown.png" border-bottom="4px solid #ffffff" padding="10px">
+      <mj-column background-color="rgba(229,240,246,0.8)" width="50%" border-radius="5%">
+        <mj-image src="https://cdn.discordapp.com/attachments/448775071536906252/448838510321860618/dsqdqsdsfdsfsdfsdfd.png" width="200px" padding-top="15px" padding-bottom="5px"></mj-image>
+        <mj-text align="middle" font-family="Ubuntu" font-size="20px">The new God of War</br>is now out and it's
+          </br>a massive hit!</br>
+          </br>don't forget to add it</br>to your collection!
+        </mj-text>
+        <mj-button background-color="#9a3929" border-radius="10px" border-bottom="4px solid #5e2b20">TO PROFILE</mj-button>
+      </mj-column>
+      <mj-column width="50%"></mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+
+    <mj-section background-color="#ffffff" padding="5px">
+      <mj-column>
+        <mj-image src="https://cdn.discordapp.com/attachments/448775071536906252/448843783317094400/logo-footer2x.7cf443ec.png" width="150px"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
